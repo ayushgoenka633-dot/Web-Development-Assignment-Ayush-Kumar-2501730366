@@ -1,0 +1,393 @@
+% LaTeX Document for Assignment 5 - Capstone Project
+
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf-8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage{array}
+\usepackage{colortbl}
+
+% Define Colors
+\definecolor{primaryBlue}{RGB}{37, 99, 235}
+\definecolor{accentGreen}{RGB}{16, 185, 129}
+\definecolor{secondaryOrange}{RGB}{245, 158, 11}
+\definecolor{darkGray}{RGB}{30, 41, 59}
+\definecolor{lightBg}{RGB}{248, 250, 252}
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{\textcolor{primaryBlue}{Assignment 5 - Capstone Project}}}
+\fancyhead[R]{\textcolor{primaryBlue}{Ayush Kumar | 2501730366}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{primaryBlue}\leaders\hrule height \headrulewidth\hfill}}
+
+\title{
+    \textcolor{primaryBlue}{\Large \textbf{🎓 LAB ASSIGNMENT 5}}\\
+    \textcolor{darkGray}{\Large \textbf{Online Learning Platform UI Development}}
+}
+\author{\textcolor{primaryBlue}{\textbf{Ayush Kumar}} \\ Roll No: 2501730366}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{tcolorbox}[colback=lightBg, colframe=primaryBlue, title=\textbf{Project Information}, boxsep=5pt, fonttitle=\bfseries]
+\textbf{Objective:} Design and develop a professional Online Learning Platform UI using modern web technologies with emphasis on semantic HTML5, responsive design, and advanced CSS techniques.
+\end{tcolorbox}
+
+\tableofcontents
+\newpage
+
+% ============ SECTION 1 ============
+\section{\textcolor{primaryBlue}{📋 Project Overview}}
+
+This capstone project focuses on creating a comprehensive \textbf{Online Learning Platform UI} using modern web development technologies. The assignment emphasizes:
+
+\begin{itemize}
+    \item \textbf{Semantic HTML5} structure for accessibility and SEO
+    \item \textbf{Advanced CSS} techniques (Grid \& Flexbox)
+    \item \textbf{Responsive Design} for all devices
+    \item \textbf{Interactive Elements} with smooth animations
+    \item \textbf{Professional Typography} and color management
+\end{itemize}
+
+\vspace{10pt}
+\noindent
+\begin{tcolorbox}[colback=accentGreen!10, colframe=accentGreen, title=\textbf{Key Focus Areas}, boxsep=5pt]
+\begin{itemize}
+    \item Modern web standards and best practices
+    \item User experience and accessibility compliance
+    \item Responsive design across all breakpoints
+    \item Clean and maintainable code structure
+\end{itemize}
+\end{tcolorbox}
+
+% ============ SECTION 2 ============
+\section{\textcolor{primaryBlue}{✨ Key Requirements}}
+
+\subsection{1. Semantic HTML5 Structure}
+\begin{tcolorbox}[colback=primaryBlue!5, colframe=primaryBlue, boxsep=5pt]
+\begin{itemize}
+    \item Proper use of semantic elements: \texttt{<header>}, \texttt{<nav>}, \texttt{<main>}, \texttt{<section>}
+    \item Multiple \texttt{<article>} components for content organization
+    \item \texttt{<aside>} sections for supplementary information
+    \item Professional \texttt{<footer>} with relevant links
+    \item Correct heading hierarchy (h1, h2, h3)
+\end{itemize}
+\end{tcolorbox}
+
+\subsection{2. CSS Grid \& Flexbox Layout}
+\begin{tcolorbox}[colback=secondaryOrange!5, colframe=secondaryOrange, boxsep=5pt]
+\textbf{CSS Grid:} Applied to course cards and pricing tables
+\begin{lstlisting}[language=CSS, basicstyle=\ttfamily\small]
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+\end{lstlisting}
+
+\textbf{Flexbox:} Used for navigation, hero section, and footer alignment
+\end{tcolorbox}
+
+\subsection{3. Responsive Design Breakpoints}
+\begin{table}[h]
+\centering
+\begin{tabular}{|>{\centering\arraybackslash}m{2cm}|>{\centering\arraybackslash}m{3cm}|>{\centering\arraybackslash}m{3cm}|}
+\hline
+\rowcolor{primaryBlue!20}
+\textbf{Breakpoint} & \textbf{Device Type} & \textbf{Usage} \\
+\hline
+\textbf{1024px} & Large tablets & Tablet to desktop transition \\
+\hline
+\textbf{768px} & Medium tablets & Tablet optimization \\
+\hline
+\textbf{600px} & Mobile devices & Mobile optimization \\
+\hline
+\end{tabular}
+\caption{Responsive Breakpoints Configuration}
+\end{table}
+
+\subsection{4. Interactive Elements}
+\begin{itemize}
+    \item Properly labeled form inputs with validation
+    \item Organized navigation and content lists
+    \item Images with descriptive alt text for accessibility
+    \item Smooth hover transitions and effects
+    \item Keyframe animations for visual engagement
+\end{itemize}
+
+\subsection{5. Typography \& Styling}
+\begin{itemize}
+    \item \textbf{Google Fonts} integration (Poppins, Inter, Roboto)
+    \item \textbf{CSS Variables} for consistent color palette
+    \item Professional color scheme with primary, secondary, and accent colors
+    \item Font size scale: 12px, 14px, 16px, 18px, 24px, 32px, 48px
+\end{itemize}
+
+% ============ SECTION 3 ============
+\section{\textcolor{primaryBlue}{🎨 Key Sections to Include}}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|>{\columncolor{primaryBlue!10}}m{3cm}|m{4cm}|}
+\hline
+\textbf{Section Name} & \textbf{Purpose \& Content} \\
+\hline
+\textbf{Hero Banner} & Eye-catching introduction with call-to-action button \\
+\hline
+\textbf{Course Grid} & Display 3-6 course cards with images, titles, descriptions \\
+\hline
+\textbf{Testimonials} & Student feedback section with ratings and quotes \\
+\hline
+\textbf{Pricing Table} & Clear pricing tiers with feature comparisons \\
+\hline
+\textbf{Contact Form} & User inquiry collection with validation \\
+\hline
+\end{tabular}
+\caption{Main Page Sections}
+\end{table}
+
+% ============ SECTION 4 ============
+\section{\textcolor{primaryBlue}{📁 Project Folder Structure}}
+
+\begin{tcolorbox}[colback=lightBg, colframe=darkGray, title=\textbf{Directory Organization}, boxsep=5pt]
+\begin{lstlisting}
+Online-Learning-Platform/
+├── index.html              (Main HTML file)
+├── style.css               (All CSS styles + responsive)
+├── images/                 (Image assets)
+│   ├── hero-banner.jpg
+│   ├── course1.jpg
+│   ├── course2.jpg
+│   └── course3.jpg
+├── README.md               (Project documentation)
+├── screenshot-desktop.png  (Desktop view - 1024px+)
+└── screenshot-mobile.png   (Mobile view - 600px)
+\end{lstlisting}
+\end{tcolorbox}
+
+% ============ SECTION 5 ============
+\section{\textcolor{primaryBlue}{🔧 Technical Implementation Guide}}
+
+\subsection{HTML Semantic Structure}
+
+\begin{tcolorbox}[colback=primaryBlue!5, colframe=primaryBlue, boxsep=5pt, title=\textbf{Semantic HTML Pattern}]
+\begin{lstlisting}[language=HTML, basicstyle=\ttfamily\small]
+<header>
+  <nav>Navigation menu</nav>
+</header>
+<main>
+  <section>Hero banner</section>
+  <section>
+    <article>Course 1</article>
+    <article>Course 2</article>
+    <article>Course 3</article>
+  </section>
+  <aside>Testimonials</aside>
+  <section>Pricing Table</section>
+  <section>Contact Form</section>
+</main>
+<footer>Footer content</footer>
+\end{lstlisting}
+\end{tcolorbox}
+
+\subsection{CSS Grid Implementation}
+
+\begin{tcolorbox}[colback=secondaryOrange!5, colframe=secondaryOrange, boxsep=5pt, title=\textbf{Grid Layout Code}]
+Course Cards Grid:
+\begin{lstlisting}[language=CSS, basicstyle=\ttfamily\small]
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+}
+\end{lstlisting}
+\end{tcolorbox}
+
+\subsection{CSS Flexbox Implementation}
+
+\begin{tcolorbox}[colback=accentGreen!5, colframe=accentGreen, boxsep=5pt, title=\textbf{Flexbox Layout Code}]
+Navigation & Hero:
+\begin{lstlisting}[language=CSS, basicstyle=\ttfamily\small]
+nav { display: flex; justify-content: space-between; }
+.hero { display: flex; flex-direction: column; 
+        align-items: center; }
+\end{lstlisting}
+\end{tcolorbox}
+
+\subsection{Responsive Media Queries}
+
+\begin{tcolorbox}[colback=lightBg, colframe=darkGray, boxsep=5pt]
+\begin{lstlisting}[language=CSS, basicstyle=\ttfamily\small]
+/* Desktop: 1024px and above */
+@media (max-width: 1024px) { /* Adjust for tablet */ }
+
+/* Tablet: 768px and above */
+@media (max-width: 768px) { /* Adjust for tablet */ }
+
+/* Mobile: 600px and above */
+@media (max-width: 600px) { /* Adjust for mobile */ }
+\end{lstlisting}
+\end{tcolorbox}
+
+% ============ SECTION 6 ============
+\section{\textcolor{primaryBlue}{🎨 Professional Color Palette}}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|>{\centering\arraybackslash}m{2.5cm}|>{\columncolor{primaryBlue}}m{2cm}|m{4cm}|}
+\hline
+\textbf{Color Name} & \textbf{Hex Code} & \textbf{Usage} \\
+\hline
+Primary Blue & \#2563EB & Headers, buttons, main accents \\
+\hline
+Secondary Orange & \#F59E0B & Hover states, highlights \\
+\hline
+Accent Green & \#10B981 & Success states, highlights \\
+\hline
+Dark Gray & \#1E293B & Text, dark backgrounds \\
+\hline
+Light Background & \#F8FAFC & Light backgrounds, cards \\
+\hline
+\end{tabular}
+\caption{Recommended Color Palette}
+\end{table}
+
+% ============ SECTION 7 ============
+\section{\textcolor{primaryBlue}{📝 Documentation Requirements}}
+
+\subsection{README.md Content Structure}
+
+Your \texttt{README.md} file must include:
+
+\begin{enumerate}
+    \item \textbf{Project Title \& Description} - Brief overview and purpose
+    \item \textbf{Theme Description} - Color palette and design philosophy
+    \item \textbf{Sections Overview} - Detailed breakdown of each section
+    \item \textbf{Technical Details} - Grid/Flexbox usage and responsive strategy
+    \item \textbf{How to Use} - Instructions and browser compatibility
+    \item \textbf{Screenshots} - Desktop and mobile screenshots
+\end{enumerate}
+
+% ============ SECTION 8 ============
+\section{\textcolor{primaryBlue}{🎯 Submission Checklist}}
+
+\begin{tcolorbox}[colback=accentGreen!10, colframe=accentGreen, title=\textbf{Complete Before Submission}, boxsep=5pt]
+\begin{tabular}{ll}
+$\square$ & HTML file is semantic and well-structured \\
+$\square$ & CSS organized with clear sections \\
+$\square$ & Grid applied to course cards \& pricing \\
+$\square$ & Flexbox used for navigation \& alignment \\
+$\square$ & All responsive breakpoints working \\
+$\square$ & Forms include proper labels \& validation \\
+$\square$ & Images have descriptive alt text \\
+$\square$ & Hover effects \& transitions smooth \\
+$\square$ & Keyframe animations implemented \\
+$\square$ & Google Fonts integrated correctly \\
+$\square$ & CSS variables used for colors \\
+$\square$ & README.md documentation complete \\
+$\square$ & Screenshots captured (desktop \& mobile) \\
+$\square$ & Files organized in proper structure \\
+$\square$ & Code clean \& well-commented \\
+\end{tabular}
+\end{tcolorbox}
+
+% ============ SECTION 9 ============
+\section{\textcolor{primaryBlue}{💡 Animation Examples}}
+
+\begin{tcolorbox}[colback=secondaryOrange!5, colframe=secondaryOrange, boxsep=5pt]
+\textbf{Hover Card Effect:}
+\begin{lstlisting}[language=CSS, basicstyle=\ttfamily\small]
+.card {
+  transition: transform 0.3s ease, 
+              box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+\end{lstlisting}
+
+\textbf{Keyframe Animation:}
+\begin{lstlisting}[language=CSS, basicstyle=\ttfamily\small]
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.hero { animation: slideIn 0.8s ease-out; }
+\end{lstlisting}
+\end{tcolorbox}
+
+% ============ SECTION 10 ============
+\section{\textcolor{primaryBlue}{📚 Learning Outcomes}}
+
+Upon completion of this assignment, you will have achieved:
+
+\begin{tcolorbox}[colback=primaryBlue!10, colframe=primaryBlue, boxsep=5pt]
+\begin{itemize}
+    \item ✅ \textbf{Semantic HTML5 Mastery} - Understanding proper markup
+    \item ✅ \textbf{Advanced CSS Grid} - Creating responsive grid layouts
+    \item ✅ \textbf{CSS Flexbox Expertise} - Building flexible alignments
+    \item ✅ \textbf{Responsive Web Design} - Mobile-first approach
+    \item ✅ \textbf{Interactive UI Elements} - Animations and transitions
+    \item ✅ \textbf{Professional Code Quality} - Clean and maintainable code
+    \item ✅ \textbf{Project Documentation} - Professional README files
+\end{itemize}
+\end{tcolorbox}
+
+% ============ SECTION 11 ============
+\section{\textcolor{primaryBlue}{🤝 Troubleshooting Guide}}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|>{\columncolor{primaryBlue!10}}m{3.5cm}|m{4cm}|}
+\hline
+\textbf{Common Issues} & \textbf{Solution} \\
+\hline
+Grid items not aligning & Check \texttt{grid-template-columns} \& use \texttt{minmax()} \\
+\hline
+Mobile view breaking & Verify media queries in correct order (mobile-first) \\
+\hline
+Fonts not loading & Ensure Google Fonts link in \texttt{<head>} before CSS \\
+\hline
+Animations stuttering & Use \texttt{will-change} property, check performance \\
+\hline
+Images too large & Optimize images, use \texttt{max-width: 100\%} \\
+\hline
+Form validation failing & Add required attributes \& proper input types \\
+\hline
+\end{tabular}
+\caption{Troubleshooting Guide}
+\end{table}
+
+% ============ SECTION 12 ============
+\section{\textcolor{primaryBlue}{✅ Final Notes \& Best Practices}}
+
+\begin{tcolorbox}[colback=accentGreen!10, colframe=accentGreen, title=\textbf{Remember}, boxsep=5pt]
+\begin{itemize}
+    \item 💻 Keep your code \textbf{clean and well-commented}
+    \item 📱 Test on \textbf{multiple devices and browsers}
+    \item ♿ Ensure \textbf{WCAG accessibility standards}
+    \item 🔄 Use \textbf{Git version control} if possible
+    \item 👥 Get \textbf{feedback from peers} before submission
+    \item 🎯 Remember: \textbf{User Experience is Key!}
+\end{itemize}
+\end{tcolorbox}
+
+\vspace{20pt}
+\hrule
+\vspace{10pt}
+
+\begin{center}
+\Large \textbf{\textcolor{primaryBlue}{🚀 Good luck with your Capstone Project!}}\\
+\vspace{5pt}
+\normalsize \textcolor{darkGray}{This assignment tests your understanding of modern web technologies and UI/UX best practices.}
+\end{center}
+
+\end{document}
