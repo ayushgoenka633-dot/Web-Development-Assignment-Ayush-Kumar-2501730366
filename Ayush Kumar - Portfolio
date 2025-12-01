@@ -1,0 +1,559 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&utm_source=perplexity
+Subject: Ayush Kumar - Portfolio
+Date: Mon, 1 Dec 2025 13:38:09 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ID8ke9HSDDfo3HbH4FH5sa49oOcV7NA4Jsf4n8CoOp----"
+
+
+------MultipartBoundary--ID8ke9HSDDfo3HbH4FH5sa49oOcV7NA4Jsf4n8CoOp----
+Content-Type: text/html
+Content-ID: <frame-B91D17C98715D97CE6CC909CAF2A90ED@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&utm_source=perplexity
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-185d5a19-b8e4-4a08-95f7-6e1cbe21cc46@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayush Kumar - Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&amp;family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet">
+    
+</head>
+<body>
+    <!-- HEADER & NAVIGATION -->
+    <header>
+        <nav>
+            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#home" class="logo">AK</a>
+            <ul class="nav-links">
+                <li><a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#home">Home</a></li>
+                <li><a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#about">About</a></li>
+                <li><a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#skills">Skills</a></li>
+                <li><a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#projects">Projects</a></li>
+                <li><a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Hi, I'm Ayush Kumar</h1>
+            <div class="title">Full Stack Developer &amp; AI/ML Enthusiast</div>
+            <p>B.Tech CSE with AI/ML Specialization | KR Mangalam University | Roll No: 2501730366</p>
+            <p>I create responsive, interactive web experiences using modern technologies like HTML5, CSS3, JavaScript, and web design principles. Passionate about building clean, user-friendly interfaces and solving real-world problems through code.</p>
+            <div class="cta-buttons">
+                <button class="btn btn-primary">View My Work</button>
+                <button class="btn btn-secondary">Download CV</button>
+            </div>
+        </div>
+        <div class="hero-image">
+            <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1"></stop>
+                        <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1"></stop>
+                    </linearGradient>
+                </defs>
+                <circle cx="200" cy="200" r="150" fill="url(#grad)" opacity="0.1"></circle>
+                <circle cx="200" cy="200" r="130" fill="url(#grad)" opacity="0.2"></circle>
+                <circle cx="200" cy="200" r="110" fill="url(#grad)" opacity="0.3"></circle>
+                <rect x="150" y="120" width="100" height="120" rx="20" fill="url(#grad)"></rect>
+                <circle cx="180" cy="150" r="8" fill="#fff"></circle>
+                <circle cx="220" cy="150" r="8" fill="#fff"></circle>
+                <path d="M 180 180 Q 200 200 220 180" stroke="#fff" stroke-width="2" fill="none"></path>
+            </svg>
+        </div>
+    </section>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="about">
+        <div class="section-container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <h3>Who I Am</h3>
+                    <p>I'm a passionate first-year B.Tech CSE student specializing in Artificial Intelligence and Machine Learning at KR Mangalam University. My journey into tech started with a curiosity about how the web works, and now I'm committed to building intuitive, responsive web applications.</p>
+                    <p>With a strong foundation in HTML5, CSS3, and JavaScript, I focus on creating user-centric designs that are both beautiful and functional. I believe in continuous learning and staying updated with the latest web technologies.</p>
+                </div>
+                <div class="about-stats">
+                    <div class="stat-item">
+                        <div class="stat-number">15+</div>
+                        <div class="stat-label">Projects Completed</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">1st Yr</div>
+                        <div class="stat-label">B.Tech CSE AI/ML</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SKILLS SECTION -->
+    <section id="skills" class="skills">
+        <div class="section-container">
+            <h2 class="section-title">Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <div class="skill-icon">🎨</div>
+                    <h3>HTML5</h3>
+                    <p>Semantic markup, accessibility, forms, and structured layouts</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🎭</div>
+                    <h3>CSS3</h3>
+                    <p>Flexbox, Grid, responsive design, animations, and transitions</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">⚡</div>
+                    <h3>JavaScript</h3>
+                    <p>DOM manipulation, ES6+, async programming, and interactive features</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">📱</div>
+                    <h3>Responsive Design</h3>
+                    <p>Mobile-first approach, media queries, and cross-browser compatibility</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🔧</div>
+                    <h3>Web Development</h3>
+                    <p>Frontend technologies, performance optimization, and best practices</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🤖</div>
+                    <h3>AI/ML Basics</h3>
+                    <p>Python fundamentals, data structures, and algorithm concepts</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects" class="projects">
+        <div class="section-container">
+            <h2 class="section-title">Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image">🌐</div>
+                    <div class="project-content">
+                        <h3>Responsive Portfolio</h3>
+                        <p>A modern, fully responsive portfolio website built with HTML5, CSS3 Flexbox, Grid, and animations. Features include smooth transitions, hover effects, and mobile-first design.</p>
+                        <div class="project-tags">
+                            <span class="tag">HTML5</span>
+                            <span class="tag">CSS3</span>
+                            <span class="tag">Responsive</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="project-link">View Project →</a>
+                            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="project-link">GitHub →</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image">🎮</div>
+                    <div class="project-content">
+                        <h3>Interactive Quiz Game</h3>
+                        <p>A browser-based quiz game built with JavaScript. Features include dynamic question loading, score tracking, input validation, and immediate user feedback with styled console output.</p>
+                        <div class="project-tags">
+                            <span class="tag">JavaScript</span>
+                            <span class="tag">Interactive</span>
+                            <span class="tag">DOM</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="project-link">View Project →</a>
+                            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="project-link">GitHub →</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image">📰</div>
+                    <div class="project-content">
+                        <h3>News Portal Layout</h3>
+                        <p>A professional news portal layout with HTML5 semantic tags, CSS3 Grid and Flexbox for responsive layout, and proper typography hierarchy for content organization.</p>
+                        <div class="project-tags">
+                            <span class="tag">HTML5</span>
+                            <span class="tag">CSS3 Grid</span>
+                            <span class="tag">Semantic</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="project-link">View Project →</a>
+                            <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="project-link">GitHub →</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="contact">
+        <div class="section-container">
+            <h2 class="section-title">Get In Touch</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3 style="color: white; font-size: 1.5rem; margin-bottom: 1rem;">Contact Information</h3>
+                    <div class="contact-item">
+                        <div class="contact-icon">📧</div>
+                        <div>
+                            <p style="color: var(--text-light); margin-bottom: 0.25rem;">Email</p>
+                            <a href="mailto:ayush.kumar@krmangalam.edu.in">ayush.kumar@krmangalam.edu.in</a>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📱</div>
+                        <div>
+                            <p style="color: var(--text-light); margin-bottom: 0.25rem;">Phone</p>
+                            <a href="tel:+919876543210">+91 9876543210</a>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📍</div>
+                        <div>
+                            <p style="color: var(--text-light); margin-bottom: 0.25rem;">Location</p>
+                            <span style="color: white;">New Delhi, India</span>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">🎓</div>
+                        <div>
+                            <p style="color: var(--text-light); margin-bottom: 0.25rem;">Roll No</p>
+                            <span style="color: white;">2501730366</span>
+                        </div>
+                    </div>
+                </div>
+                <form>
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name" placeholder="Your Name" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" placeholder="your.email@example.com" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" placeholder="Your message..." required=""></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="footer-link">Privacy Policy</a>
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="footer-link">Terms of Service</a>
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="footer-link">Sitemap</a>
+            </div>
+            <div class="social-links">
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="social-link" title="GitHub">🐙</a>
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="social-link" title="LinkedIn">💼</a>
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="social-link" title="Twitter">🐦</a>
+                <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/eb35121e151e79a82a735a4e6667bc66/1bb281fc-764e-44f8-873a-2409233d32ae/a3a88980.html?rnd=1764576375498&amp;utm_source=perplexity#" class="social-link" title="Email">✉️</a>
+            </div>
+            <p class="footer-copy">© 2025 Ayush Kumar (Roll: 2501730366). All rights reserved. | B.Tech CSE AI/ML, KR Mangalam University</p>
+        </div>
+    </footer>
+
+    
+
+</body></html>
+------MultipartBoundary--ID8ke9HSDDfo3HbH4FH5sa49oOcV7NA4Jsf4n8CoOp----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Roboto:wght@400;500&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecmNE.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecmNE.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2") format("woff2"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2") format("woff2"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2") format("woff2"); unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2") format("woff2"); unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--ID8ke9HSDDfo3HbH4FH5sa49oOcV7NA4Jsf4n8CoOp----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-185d5a19-b8e4-4a08-95f7-6e1cbe21cc46@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+:root { --primary-color: #6366f1; --secondary-color: #ec4899; --dark-bg: #0f172a; --light-bg: #f8fafc; --text-dark: #1e293b; --text-light: #64748b; --white: #ffffff; --border-color: #e2e8f0; }
+
+html { scroll-behavior: smooth; }
+
+body { font-family: Roboto, sans-serif; color: var(--text-dark); line-height: 1.6; background-color: var(--white); }
+
+header { background-color: var(--white); box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px; position: sticky; top: 0px; z-index: 100; }
+
+nav { display: flex; justify-content: space-between; align-items: center; padding: 1.25rem 5%; max-width: 1200px; margin: 0px auto; width: 100%; }
+
+.logo { font-size: 1.75rem; font-weight: 700; color: var(--primary-color); text-decoration: none; transition: 0.3s; }
+
+.logo:hover { transform: scale(1.05); color: var(--secondary-color); }
+
+.nav-links { display: flex; gap: 2rem; list-style: none; }
+
+.nav-links a { text-decoration: none; color: var(--text-dark); font-weight: 500; font-size: 1rem; transition: 0.3s; position: relative; }
+
+.nav-links a:hover { color: var(--primary-color); }
+
+.nav-links a::after { content: ""; position: absolute; bottom: -5px; left: 0px; width: 0px; height: 2px; background-color: var(--secondary-color); transition: width 0.3s; }
+
+.nav-links a:hover::after { width: 100%; }
+
+.hero { display: flex; align-items: center; justify-content: space-between; gap: 3rem; padding: 5rem 5%; max-width: 1200px; margin: 0px auto; min-height: 70vh; }
+
+.hero-content { flex: 1 1 0%; animation: 0.8s ease-out 0s 1 normal none running slideInLeft; }
+
+.hero-content h1 { font-size: 3.5rem; font-family: Poppins, sans-serif; font-weight: 700; color: var(--text-dark); line-height: 1.2; margin-bottom: 1rem; }
+
+.hero-content .title { font-size: 1.5rem; font-weight: 600; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat: ; background-attachment: ; background-origin: ; background-color: ; -webkit-text-fill-color: transparent; background-clip: text; animation: 3s ease-in-out 0s infinite normal none running colorShift; margin-bottom: 1rem; }
+
+.hero-content p { font-size: 1.125rem; color: var(--text-light); margin-bottom: 1.5rem; line-height: 1.8; }
+
+.cta-buttons { display: flex; gap: 1rem; margin-top: 2rem; flex-wrap: wrap; }
+
+.btn { padding: 0.875rem 1.75rem; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.3s; text-decoration: none; display: inline-block; text-align: center; }
+
+.btn-primary { background-color: var(--primary-color); color: var(--white); }
+
+.btn-primary:hover { background-color: var(--secondary-color); transform: translateY(-3px); box-shadow: rgba(99, 102, 241, 0.3) 0px 10px 25px; }
+
+.btn-secondary { background-color: transparent; color: var(--primary-color); border: 2px solid var(--primary-color); }
+
+.btn-secondary:hover { background-color: var(--primary-color); color: var(--white); transform: translateY(-3px); }
+
+.hero-image { flex: 1 1 0%; animation: 0.8s ease-out 0s 1 normal none running slideInRight; }
+
+.hero-image img { width: 100%; max-width: 400px; height: auto; border-radius: 15px; box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 40px; transition: transform 0.3s; }
+
+.hero-image img:hover { transform: scale(1.05); }
+
+.about { background-color: var(--light-bg); padding: 5rem 5%; }
+
+.section-container { max-width: 1200px; margin: 0px auto; }
+
+.section-title { font-size: 2.5rem; font-family: Poppins, sans-serif; font-weight: 700; color: var(--text-dark); margin-bottom: 1rem; text-align: center; }
+
+.section-title::after { content: ""; display: block; width: 100px; height: 4px; background: linear-gradient(90deg, var(--primary-color), var(--secondary-color)); margin: 1rem auto; border-radius: 2px; }
+
+.about-content { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; margin-top: 3rem; }
+
+.about-text h3 { font-size: 1.5rem; font-weight: 600; color: var(--primary-color); margin-bottom: 1rem; }
+
+.about-text p { color: var(--text-light); margin-bottom: 1rem; line-height: 1.8; }
+
+.about-stats { display: flex; gap: 2rem; margin-top: 2rem; }
+
+.stat-item { flex: 1 1 0%; text-align: center; padding: 1rem; background: var(--white); border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.08) 0px 5px 15px; transition: transform 0.3s; }
+
+.stat-item:hover { transform: translateY(-5px); }
+
+.stat-number { font-size: 2rem; font-weight: 700; color: var(--secondary-color); }
+
+.stat-label { font-size: 0.9rem; color: var(--text-light); margin-top: 0.5rem; }
+
+.skills { padding: 5rem 5%; background-color: var(--white); }
+
+.skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 3rem; }
+
+.skill-card { background: linear-gradient(135deg, var(--light-bg), var(--white)); padding: 2rem; border-radius: 12px; border: 2px solid var(--border-color); text-align: center; transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.08) 0px 5px 15px; }
+
+.skill-card:hover { border-color: var(--primary-color); transform: translateY(-10px) scale(1.02); box-shadow: rgba(99, 102, 241, 0.2) 0px 15px 35px; }
+
+.skill-icon { font-size: 2.5rem; margin-bottom: 1rem; }
+
+.skill-card h3 { font-size: 1.25rem; font-weight: 600; color: var(--text-dark); margin-bottom: 0.5rem; }
+
+.skill-card p { color: var(--text-light); font-size: 0.9rem; }
+
+.projects { background-color: var(--light-bg); padding: 5rem 5%; }
+
+.projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 3rem; }
+
+.project-card { background: var(--white); border-radius: 12px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.1) 0px 8px 20px; transition: 0.3s; border: 2px solid transparent; }
+
+.project-card:hover { transform: translateY(-10px); border-color: var(--primary-color); box-shadow: rgba(99, 102, 241, 0.2) 0px 15px 40px; }
+
+.project-image { width: 100%; height: 200px; background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); display: flex; align-items: center; justify-content: center; color: var(--white); font-size: 3rem; transition: transform 0.3s; }
+
+.project-card:hover .project-image { transform: scale(1.05); }
+
+.project-content { padding: 1.5rem; }
+
+.project-content h3 { font-size: 1.25rem; font-weight: 600; color: var(--text-dark); margin-bottom: 0.75rem; }
+
+.project-content p { color: var(--text-light); font-size: 0.95rem; margin-bottom: 1rem; line-height: 1.6; }
+
+.project-tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+
+.tag { background: var(--light-bg); color: var(--primary-color); padding: 0.35rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500; }
+
+.project-links { display: flex; gap: 1rem; }
+
+.project-link { color: var(--primary-color); text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: 0.3s; }
+
+.project-link:hover { color: var(--secondary-color); transform: translateX(5px); }
+
+.contact { padding: 5rem 5%; background: linear-gradient(135deg, var(--dark-bg), #1a293e); color: var(--white); }
+
+.contact .section-title { color: var(--white); }
+
+.contact .section-title::after { background: linear-gradient(90deg, var(--primary-color), var(--secondary-color)); }
+
+.contact-content { max-width: 700px; margin: 3rem auto; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+
+.contact-info { display: flex; flex-direction: column; gap: 2rem; }
+
+.contact-item { display: flex; gap: 1rem; }
+
+.contact-icon { font-size: 1.5rem; color: var(--primary-color); min-width: 30px; }
+
+.contact-item a { color: var(--white); text-decoration: none; transition: 0.3s; }
+
+.contact-item a:hover { color: var(--secondary-color); transform: translateX(5px); }
+
+.form-group { margin-bottom: 1.5rem; }
+
+.form-group label { display: block; margin-bottom: 0.5rem; font-weight: 500; font-size: 0.95rem; }
+
+.form-group input, .form-group textarea { width: 100%; padding: 0.75rem; border: 2px solid rgba(255, 255, 255, 0.2); border-radius: 8px; background: rgba(255, 255, 255, 0.1); color: var(--white); font-family: Roboto, sans-serif; font-size: 0.95rem; transition: 0.3s; }
+
+.form-group input::placeholder, .form-group textarea::placeholder { color: rgba(255, 255, 255, 0.6); }
+
+.form-group input:focus, .form-group textarea:focus { outline: none; border-color: var(--primary-color); background: rgba(255, 255, 255, 0.15); }
+
+.form-group textarea { resize: vertical; min-height: 120px; }
+
+footer { background-color: rgb(10, 15, 31); color: var(--text-light); text-align: center; padding: 2rem 5%; border-top: 1px solid rgba(255, 255, 255, 0.1); }
+
+.footer-content { max-width: 1200px; margin: 0px auto; }
+
+.footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1rem; flex-wrap: wrap; }
+
+.footer-link { color: var(--text-light); text-decoration: none; transition: 0.3s; }
+
+.footer-link:hover { color: var(--primary-color); transform: translateY(-2px); }
+
+.footer-copy { font-size: 0.9rem; margin-bottom: 1rem; }
+
+.social-links { display: flex; justify-content: center; gap: 1rem; }
+
+.social-link { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: rgba(99, 102, 241, 0.2); border-radius: 50%; color: var(--primary-color); text-decoration: none; transition: 0.3s; }
+
+.social-link:hover { background: var(--primary-color); color: var(--white); transform: scale(1.1) translateY(-3px); }
+
+@keyframes slideInLeft { 
+  0% { opacity: 0; transform: translateX(-50px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+
+@keyframes slideInRight { 
+  0% { opacity: 0; transform: translateX(50px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+
+@keyframes colorShift { 
+  0%, 100% { background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat: ; background-attachment: ; background-origin: ; background-color: ; -webkit-text-fill-color: transparent; background-clip: text; }
+  50% { background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat: ; background-attachment: ; background-origin: ; background-color: ; -webkit-text-fill-color: transparent; background-clip: text; }
+}
+
+@keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@media (max-width: 768px) {
+  nav { padding: 1rem 5%; }
+  .nav-links { gap: 1rem; font-size: 0.9rem; }
+  .hero { flex-direction: column; padding: 3rem 5%; gap: 2rem; min-height: auto; }
+  .hero-content h1 { font-size: 2.25rem; }
+  .hero-content .title { font-size: 1.25rem; }
+  .hero-image img { max-width: 300px; }
+  .about-content { grid-template-columns: 1fr; gap: 2rem; }
+  .about-stats { gap: 1rem; }
+  .skills-grid { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; }
+  .projects-grid { grid-template-columns: 1fr; }
+  .contact-content { grid-template-columns: 1fr; gap: 2rem; }
+  .section-title { font-size: 2rem; }
+  .cta-buttons { gap: 0.75rem; }
+  .btn { padding: 0.75rem 1.5rem; font-size: 0.95rem; }
+}
+
+@media (max-width: 480px) {
+  .logo { font-size: 1.5rem; }
+  .nav-links { gap: 0.75rem; font-size: 0.8rem; }
+  .hero { padding: 2rem 5%; }
+  .hero-content h1 { font-size: 1.75rem; }
+  .hero-content .title { font-size: 1rem; }
+  .hero-content p { font-size: 1rem; }
+  .hero-image img { max-width: 250px; }
+  .about, .skills, .projects, .contact { padding: 3rem 5%; }
+  .section-title { font-size: 1.5rem; }
+  .skills-grid { grid-template-columns: 1fr; }
+  .cta-buttons { flex-direction: column; }
+  .btn { width: 100%; }
+  .footer-links { gap: 1rem; }
+}
+------MultipartBoundary--ID8ke9HSDDfo3HbH4FH5sa49oOcV7NA4Jsf4n8CoOp------
